@@ -1,4 +1,7 @@
 var Dog = require('./Dog');
+var cats = require('./Cat')
 
 var dog = new Dog('Tom');
-dog.SayHi();
+var cat = new Cat();
+dog.eat(cat);
+console.log(dog);
