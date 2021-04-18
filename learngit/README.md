@@ -1,0 +1,1 @@
+this project is just a dome how to use git
